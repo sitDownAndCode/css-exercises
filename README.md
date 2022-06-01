@@ -1,2 +1,2 @@
 # css-exercises
-Founndations CSS, 1-6
+Foundations CSS, 1-6
