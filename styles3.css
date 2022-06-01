@@ -1,0 +1,20 @@
+.Button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+/* .Button.first, .Button.second {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+} */
+
+
+.Button.first {
+    background-color: #000000;
+    color: rgb(255,255,255);
+}
+
+.Button.second {
+    background-color: hsl(62, 91%, 68%);
+}
+

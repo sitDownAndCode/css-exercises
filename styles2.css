@@ -1,0 +1,21 @@
+.elementos :nth-child(2n-1) {
+    background-color: #ecaeb4;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#first {
+    color: rgb(0,0,240);
+    font-size: 36px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.element-three {
+    font-size: 24px;
+}
+
+#second {
+    font-weight: 800;
+    background-color: hsl(143, 83%, 61%);
+    font-family: "Brush Script MT", courier;
+}
+
